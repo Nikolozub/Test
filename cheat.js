@@ -1,1 +1,1 @@
-live = 10000000
+alert("cheat is active");
